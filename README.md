@@ -1,2 +1,2 @@
 # tropyx.github.io
-Sexy website for a hard codin man.
+<blank> website for a hard codin man.
