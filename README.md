@@ -1,4 +1,3 @@
-![Alt Text](https://raw.githubusercontent.com/tropyx/tropyx.github.io/master/tropyx-tranny.gif)
+![tropyx.com logo](https://raw.githubusercontent.com/tropyx/tropyx.github.io/master/tropyx-transparent.gif")
 
-Thanks for having a look, nothing to see here.
 
